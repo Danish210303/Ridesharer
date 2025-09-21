@@ -1,0 +1,43 @@
+🚗 RideSharer – Carpool & Ride Sharing Platform
+📌 Overview
+
+RideSharer is a web-based ride-sharing platform built with Python (CGI scripts), MySQL, and Bootstrap.
+It connects Ride Sharers (drivers) who post available rides with Ride Seekers (passengers) who book them.
+The project also includes an Admin Panel to manage users, rides, and bookings.
+
+✨ Features
+👤 Ride Seeker
+
+Register & Login
+
+Search for rides
+
+Book rides instantly
+
+Manage bookings (pending, confirmed, cancelled, history)
+
+Profile management
+
+🚘 Ride Sharer
+
+Register & Login
+
+Post rides (with RC book & insurance uploads)
+
+View and manage booking requests
+
+Approve / Cancel ride requests
+
+Booking history and dashboard
+
+🛠 Admin
+
+Admin login & dashboard
+
+Approve or reject new rides
+
+Manage users (sharers & seekers)
+
+Monitor bookings (pending, confirmed, cancelled, completed)
+
+Analytics on ride history
